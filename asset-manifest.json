@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.816b3cce.css",
-    "main.js": "/static/js/main.dd594d4f.js",
+    "main.css": "/static/css/main.a28ad720.css",
+    "main.js": "/static/js/main.b09a203d.js",
     "static/js/787.e4160696.chunk.js": "/static/js/787.e4160696.chunk.js",
     "static/media/tnm.png": "/static/media/tnm.a2800dd6aa773d3d15ba.png",
+    "static/media/ualberta.jpeg": "/static/media/ualberta.ec68672181055420d6cc.jpeg",
     "static/media/LeagueSpartan-Bold.otf": "/static/media/LeagueSpartan-Bold.caadcad8af387d419251.otf",
     "static/media/github.svg": "/static/media/github.9ffe778925d19c290c84f83afcf7771f.svg",
     "static/media/email.svg": "/static/media/email.661a224ba590db408e363e16c47d7923.svg",
     "static/media/logo.svg": "/static/media/logo.377e78bd00e9d8c31dcb9248bc3863e3.svg",
     "index.html": "/index.html",
-    "main.816b3cce.css.map": "/static/css/main.816b3cce.css.map",
-    "main.dd594d4f.js.map": "/static/js/main.dd594d4f.js.map",
+    "main.a28ad720.css.map": "/static/css/main.a28ad720.css.map",
+    "main.b09a203d.js.map": "/static/js/main.b09a203d.js.map",
     "787.e4160696.chunk.js.map": "/static/js/787.e4160696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.816b3cce.css",
-    "static/js/main.dd594d4f.js"
+    "static/css/main.a28ad720.css",
+    "static/js/main.b09a203d.js"
   ]
 }
