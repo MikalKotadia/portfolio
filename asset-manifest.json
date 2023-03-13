@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfb3f398.css",
-    "main.js": "/static/js/main.760b590b.js",
+    "main.css": "/static/css/main.d91cdc38.css",
+    "main.js": "/static/js/main.f9f66ef1.js",
     "static/js/787.e4160696.chunk.js": "/static/js/787.e4160696.chunk.js",
     "static/media/tnm.png": "/static/media/tnm.a2800dd6aa773d3d15ba.png",
     "static/media/ualberta.jpeg": "/static/media/ualberta.ec68672181055420d6cc.jpeg",
     "static/media/LeagueSpartan-Bold.otf": "/static/media/LeagueSpartan-Bold.caadcad8af387d419251.otf",
-    "static/media/github.svg": "/static/media/github.9ffe778925d19c290c84f83afcf7771f.svg",
-    "static/media/email.svg": "/static/media/email.661a224ba590db408e363e16c47d7923.svg",
-    "static/media/scroll.svg": "/static/media/scroll.cb472949185ca10b881379c01bae9ad9.svg",
-    "static/media/logo.svg": "/static/media/logo.377e78bd00e9d8c31dcb9248bc3863e3.svg",
+    "static/media/github.svg": "/static/media/github.d0464d6949eaa430203454e63717905a.svg",
+    "static/media/email.svg": "/static/media/email.4df3d17a2e6ab2db77f3f38aae9f296e.svg",
+    "static/media/scroll.svg": "/static/media/scroll.172bfc083e85c1c9283a3170e8d3cd72.svg",
+    "static/media/logo.svg": "/static/media/logo.9c8d7a6ef76e308bf25250f9b88eb26e.svg",
     "index.html": "/index.html",
-    "main.dfb3f398.css.map": "/static/css/main.dfb3f398.css.map",
-    "main.760b590b.js.map": "/static/js/main.760b590b.js.map",
+    "main.d91cdc38.css.map": "/static/css/main.d91cdc38.css.map",
+    "main.f9f66ef1.js.map": "/static/js/main.f9f66ef1.js.map",
     "787.e4160696.chunk.js.map": "/static/js/787.e4160696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfb3f398.css",
-    "static/js/main.760b590b.js"
+    "static/css/main.d91cdc38.css",
+    "static/js/main.f9f66ef1.js"
   ]
 }
