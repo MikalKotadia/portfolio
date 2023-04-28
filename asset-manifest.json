@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.785d697d.css",
-    "main.js": "/static/js/main.7144ec4d.js",
+    "main.css": "/static/css/main.ca174e24.css",
+    "main.js": "/static/js/main.59b0fa7b.js",
     "static/js/787.e4160696.chunk.js": "/static/js/787.e4160696.chunk.js",
+    "static/media/shell.mp4": "/static/media/shell.9a5a8c5a7db04ca6ba13.mp4",
     "static/media/hackEd.mp4": "/static/media/hackEd.a0f84e615940680d7812.mp4",
+    "static/media/interpreter.mp4": "/static/media/interpreter.01829c91ea7dd7c0ab86.mp4",
     "static/media/tnm.png": "/static/media/tnm.a2800dd6aa773d3d15ba.png",
     "static/media/ualberta.jpeg": "/static/media/ualberta.ec68672181055420d6cc.jpeg",
-    "static/media/shell.png": "/static/media/shell.f9eba797a92ee46563f0.png",
+    "static/media/interpreter.png": "/static/media/interpreter.327493acab830868f0a4.png",
+    "static/media/shell.png": "/static/media/shell.dab028f8f4041f367b3a.png",
     "static/media/HackEd.jpg": "/static/media/HackEd.a2a3510ff0a2c935fc65.jpg",
     "static/media/LeagueSpartan-Bold.ttf": "/static/media/LeagueSpartan-Bold.20305c507db5eb95a028.ttf",
     "static/media/LeagueSpartan-Regular.ttf": "/static/media/LeagueSpartan-Regular.46f6b0819a58b88544ae.ttf",
@@ -18,12 +21,12 @@
     "static/media/logo.svg": "/static/media/logo.9c8d7a6ef76e308bf25250f9b88eb26e.svg",
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "main.785d697d.css.map": "/static/css/main.785d697d.css.map",
-    "main.7144ec4d.js.map": "/static/js/main.7144ec4d.js.map",
+    "main.ca174e24.css.map": "/static/css/main.ca174e24.css.map",
+    "main.59b0fa7b.js.map": "/static/js/main.59b0fa7b.js.map",
     "787.e4160696.chunk.js.map": "/static/js/787.e4160696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.785d697d.css",
-    "static/js/main.7144ec4d.js"
+    "static/css/main.ca174e24.css",
+    "static/js/main.59b0fa7b.js"
   ]
 }
