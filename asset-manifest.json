@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ca174e24.css",
-    "main.js": "/static/js/main.366a43ee.js",
+    "main.js": "/static/js/main.5266746d.js",
     "static/js/787.e4160696.chunk.js": "/static/js/787.e4160696.chunk.js",
     "static/media/shell.mp4": "/static/media/shell.9a5a8c5a7db04ca6ba13.mp4",
     "static/media/hackEd.mp4": "/static/media/hackEd.a0f84e615940680d7812.mp4",
@@ -15,18 +15,18 @@
     "static/media/LeagueSpartan-Regular.ttf": "/static/media/LeagueSpartan-Regular.46f6b0819a58b88544ae.ttf",
     "static/media/LeagueSpartan-Thin.ttf": "/static/media/LeagueSpartan-Thin.3d5c50a6b182de33e4ea.ttf",
     "static/media/github.svg": "/static/media/github.d0464d6949eaa430203454e63717905a.svg",
-    "static/media/close.svg": "/static/media/close.1adc761f06ba5502425c67fa68630f71.svg",
+    "static/media/close.svg": "/static/media/close.1d0ed0a3c786030691e411b3dea2ab23.svg",
     "static/media/email.svg": "/static/media/email.4df3d17a2e6ab2db77f3f38aae9f296e.svg",
     "static/media/scroll.svg": "/static/media/scroll.172bfc083e85c1c9283a3170e8d3cd72.svg",
     "static/media/logo.svg": "/static/media/logo.9c8d7a6ef76e308bf25250f9b88eb26e.svg",
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "main.ca174e24.css.map": "/static/css/main.ca174e24.css.map",
-    "main.366a43ee.js.map": "/static/js/main.366a43ee.js.map",
+    "main.5266746d.js.map": "/static/js/main.5266746d.js.map",
     "787.e4160696.chunk.js.map": "/static/js/787.e4160696.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca174e24.css",
-    "static/js/main.366a43ee.js"
+    "static/js/main.5266746d.js"
   ]
 }
